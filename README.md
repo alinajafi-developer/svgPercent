@@ -5,7 +5,7 @@ https://github.com/alinajafiweb/svgPercent/assets/147813870/0bf8d8d8-e60f-45ac-8
 
 
 
-- [Demo Project](https://alinajafiweb.github.io/stepText/)
+- [Demo Project](https://alinajafiweb.github.io/svgPercent/)
 
 - Developed by Ali Najafi
 
