@@ -5,9 +5,9 @@ https://github.com/alinajafiweb/svgPercent/assets/147813870/0bf8d8d8-e60f-45ac-8
 
 
 
-- [Demo Project](https://alinajafiweb.github.io/svgPercent/)
+- [Demo Project](https://aliafrouz.github.io/svgPercent/)
 
-- Developed by Ali Najafi
+- Developed by Ali Afrouz
 
 - Created - 2023-11-11
 
@@ -17,4 +17,4 @@ https://github.com/alinajafiweb/svgPercent/assets/147813870/0bf8d8d8-e60f-45ac-8
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/alinajafi_web) and [linkedin](https://www.linkedin.com/in/alinajafi79/)
+- How to reach me : with my [instagram](https://www.instagram.com/aliafrouz_com) and [linkedin](https://www.linkedin.com/in/aliafrouz/)
